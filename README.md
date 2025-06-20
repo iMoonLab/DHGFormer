@@ -1,5 +1,10 @@
 # DHGFormer
-[MICCAI 2025] DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis
+<h2 align="center">[MICCAI 2025] DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis</h2>
+
+<p align="center">
+  <b>Rundong Xue, Hao Hu, Zeyu Zhang, Xiangmin Han<sup>*</sup>, Juan Wang, Yue Gao, Shaoyi Du<sup>*</sup></b>
+</p>
+
 
 ## Overview
 <div>
@@ -18,3 +23,4 @@ Coming soon...
 
 ## License
 The source code is free for research and education use only. Any comercial use should get formal permission first.
+This repo benefits from [FBNETGEN]  (https://github.com/Wayfear/FBNETGEN).  Thanks for their wonderful works.
