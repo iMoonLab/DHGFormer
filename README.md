@@ -1,4 +1,3 @@
-# DHGFormer
 <div align="center">
 <h1>DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis</h1>
 
