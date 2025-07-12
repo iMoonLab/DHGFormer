@@ -9,9 +9,10 @@ Accepted by _**MICCAI 2025**_
 </div>
 
 ## Overview
-<div>
-    <img src="figures/pipeline.png" width="96%" height="96%">
+<div align="center">
+    <img src="assets/pipeline.png">
 </div>
+
 
 **Figure 1. The framework of the proposed DHGFormer.**
 
