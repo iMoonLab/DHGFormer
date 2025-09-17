@@ -7,7 +7,7 @@
 
 Accepted by _**MICCAI 2025**_
 
-[Paper]([https://drive.google.com/file/d/14UGsikYH_SQ-d_GvY2Um2oEHw3WNxDY3/view?usp=sharing](https://papers.miccai.org/miccai-2025/paper/1576_paper.pdf))
+[Paper]([https://papers.miccai.org/miccai-2025/paper/1576_paper.pdf])
 </div>
 
 ## Overview
